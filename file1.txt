@@ -1,0 +1,1 @@
+Version control is important for keeping track of changes to code, files, and other digital assets. You should use version control software for all assets and development projects that multiple team members will collaborate on. Version control software needs to do more than just manage and track files, though.
